@@ -1,6 +1,8 @@
 # Welcome to your Football Legends and football store project
 (more of a kind Boiler plate project)
 
+Demo live link: https://shashanks10.github.io/footylegend/
+
 ## How can I edit this code?
 
 There are several ways of editing your application.
