@@ -101,7 +101,13 @@ export default {
 			},
 			animation: {
 				'accordion-down': 'accordion-down 0.2s ease-out',
-				'accordion-up': 'accordion-up 0.2s ease-out'
+				'accordion-up': 'accordion-up 0.2s ease-out',
+				'float': 'float 3s ease-in-out infinite',
+				'glow': 'glow 2s ease-in-out infinite',
+				'shimmer': 'shimmer 2s infinite',
+				'bounce-slow': 'bounce 2s infinite',
+				'pulse-slow': 'pulse 3s infinite',
+				'spin-slow': 'spin 3s linear infinite'
 			}
 		}
 	},
